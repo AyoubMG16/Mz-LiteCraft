@@ -20,5 +20,6 @@ These files were extracted unchanged from the Minecraft 1.16.5 vanilla
 jar and are intended as a starting template for the user's own custom
 resource pack.
 
-Made by: the user
+Made by: ayoub boua
+tested by: ilyes gamer
 Date: 2026-08-30
