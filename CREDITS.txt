@@ -22,4 +22,3 @@ resource pack.
 
 Made by: ayoub boua
 tested by: ilyes gamer
-Date: 2026-08-30
