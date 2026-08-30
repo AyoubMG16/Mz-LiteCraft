@@ -1,0 +1,24 @@
+Resource Pack Credits
+=====================
+
+Pack name: Extracted Blocks (vanilla override resource pack)
+Applies to: Minecraft 1.16.5
+
+Contents
+--------
+- assets/minecraft/textures/block/  (block textures)
+- assets/minecraft/models/block/    (block models)
+- assets/minecraft/blockstates/     (block blockstates)
+
+Credits & legal
+---------------
+All block textures, models, and blockstate files are the original
+Minecraft assets, copyright (c) Mojang Studios. They are distributed
+under Minecraft's asset-usage guidelines.
+
+These files were extracted unchanged from the Minecraft 1.16.5 vanilla
+jar and are intended as a starting template for the user's own custom
+resource pack.
+
+Made by: the user
+Date: 2026-08-30
